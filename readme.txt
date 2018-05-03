@@ -1,2 +1,1 @@
-
-hello 兔
+hello
