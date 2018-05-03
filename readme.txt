@@ -1,2 +1,2 @@
 Hello kitty!
-hello 兔
+hello 兔！
